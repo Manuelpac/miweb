@@ -1,0 +1,2 @@
+Texto en mi archivo 1 txt
+Otra modificación al archivo
